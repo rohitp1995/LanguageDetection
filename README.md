@@ -5,5 +5,5 @@ This is A language Identification  System which Helps to Identify what is the La
 ## Accuracy Score Obtained 
 1)RandomForest Classifier best Accuracy Score was 97.2%                                                                                                                             
 
-2)Multinomail NaiveBayes best Accuracy Score was  96.8%
+2)Multinomial Naive-Bayes best Accuracy Score was  96.8%
 
