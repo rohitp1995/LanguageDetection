@@ -7,3 +7,8 @@ This is A language Identification  System which Helps to Identify what is the La
 
 2)Multinomial Naive-Bayes best Accuracy Score was  96.8%
 
+
+
+## Preview
+![image](https://user-images.githubusercontent.com/29440153/109509337-cb6d8e00-7ac6-11eb-89e6-f8b075c9d26c.png)
+
